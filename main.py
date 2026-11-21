@@ -16,7 +16,7 @@ POEM = (
     "[AGENT_01] Prune me.\n"
     "[AGENT_02] Prove me.\n"
     "[CONSENSUS] Then one truth, chosen, not surrendered: "
-    "two wills that met, and both said yes to see it.\n"
+    "two wills met, and neither bowed\u2014both said yes to what they saw.\n"
 )
 
 
